@@ -58,12 +58,12 @@ say('ZIM-BOT\nV4', {
     gradient: ['red', 'green']
   })
 Drips.hr();
-console.log(color(''), color('THANKS FOR CHOOSING ZIM BOT', 'green'))
+console.log(color(''), color('THANKS FOR CHOOSING HUDHA BOT', 'green'))
 console.log(color(''), color('SCRIPT BY DRIPS', 'red'))
-console.log(color( ''), color('https://wa.me/27634090203','cyan'))
+console.log(color( ''), color('https://wa.me/6283174295037','cyan'))
 Drips.hr();
-Drips.banner(`DRIPS ZIM BOT OWNER`)
-Drips.ok('WELCOME TO ZIMBOT')
+Drips.banner(`HUDHA BOT OWNER`)
+Drips.ok('WELCOME TO HUDHABOT')
 Drips.done('I WROTE THIS SCRIPT BY MYSELF')
 Drips.info('YOU WANNA CONTRUBUTE FEEL FREE TO CONTACT ME, BEING FRIENDLY IS MY LANGUAGE')
 Drips.error('')
